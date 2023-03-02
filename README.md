@@ -1,2 +1,2 @@
 # Adi-Junior-ScummVM
-# Repository created by CrystalBen
+Repository created by CrystalBen
